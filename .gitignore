@@ -1,0 +1,11 @@
+*
+
+# Needed by Github
+!/.gitignore
+!/README.md
+
+# Needed by Binary Ninja
+!/plugin.json
+
+# Source code
+!*.py
